@@ -9,4 +9,4 @@ Sempre em busca de novos desafios, aprendizados e oportunidades para evoluir na 
 <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.simpleicons.org/github/888888" /><img alt="PyCharm" title="PyCharm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img alt="VS Code" title="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-Você pode me acompanhar pelo [Instagram](https://instagram.com/_cavalcante_gustavo) e se conectar comigo pelo [LinkedIn](https://linkedin.com/in/gustavo-o.-cavalcante).
+Você pode me acompanhar pelo [Instagram](https://instagram.com/_cavalcante_gustavo) e se conectar comigo pelo [LinkedIn](https://linkedin.com/in/gustavoo.cavalcante).
